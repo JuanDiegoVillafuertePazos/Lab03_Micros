@@ -1,0 +1,3 @@
+https://github.com/JuanDiegoVillafuertePazos/Lab03_Micros
+
+;En la carga hay 2 archivos .s, el que contiene el lab completo es es "Lab03.s", ignorar el "7segmentos.s"
